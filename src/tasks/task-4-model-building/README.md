@@ -6,12 +6,16 @@ About this task:
 
 * Creating different architectures
 
-List of task- More details will be added in coming days
-1. Feature Engineering
-2. Feature Selection
-3. Model Architecture/Selection
-4. Model training
-5. Model validation
-6. Model performance evaluation
-7. Model prediction on sample unseen data
-8. Prepare Model for deployment readiness
+Preliminary list of sub-task: More details will be added in coming days.
+
+### Sub-Task Table
+
+| Sub-Task No| Sub-Task Name | Details |
+|-|-|-|
+|1|  Prepare for model building readiness- Feature Engineering/Feature Selection      |         |
+|2|  Model Architecture/Selection       |         |
+|3|   Model training      |         |
+|4|   Model validation      |         |
+|5|   Model performance evaluation      |         |
+|6|   Model prediction on sample unseen data      |         |
+|7|   Prepare Model for deployment readiness      |         |
