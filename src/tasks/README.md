@@ -11,8 +11,8 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |         |
-|2|         |         |
-|3|         |         |
+|1|  Data Collection       | Identify Data Sources and Gather Marstian Surface Image Dataset        |
+|2|  Data Preprocessing       |  Pre processing data such as Chunks, Annotation, Labelling etc. for Image Dataset      |
+|3|  Research Models       |  Identify various model available for Anomaly Detection, Image Classification, Image Segmentation etc.     |
 |4| Model Building        |  Identification of the correct model, Comparative analysis after creating own, Creating different architectures|
-|5|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
+|5|Model Deployment| Deploying app using Streamlit|
