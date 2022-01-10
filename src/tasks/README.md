@@ -11,6 +11,7 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
+|0|  Knowledge       | Capture knowledge resources relevant to this project        |
 |1|  Data Collection       | Identify Data Sources and Gather Marstian Surface Image Dataset        |
 |2|  Data Preprocessing       |  Pre processing data such as Chunks, Annotation, Labelling etc. for Image Dataset      |
 |3|  Research Models       |  Identify various model available for Anomaly Detection, Image Classification, Image Segmentation etc.     |
