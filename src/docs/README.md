@@ -7,3 +7,5 @@
 [December 27th Meeting recording link](https://drive.google.com/file/d/1NPXtrT08k6zfvmkdacfuLnFV2Ikjh2Cq/view?usp=sharing)
 
 [December 19th Meeting recording link](https://drive.google.com/file/d/1v1qvt9293tjvfW4tyXYQVNdB_U4nigo9/view?usp=sharing)
+
+[Challenge Kick-Off link](https://docs.google.com/presentation/d/1z5FdmzSWDYB3P_dOzjcaATlEM6OYUXPm/edit?usp=sharing&ouid=111035884378060825685&rtpof=true&sd=true)
