@@ -166,3 +166,36 @@ https://valentinaalto.medium.com/class-activation-maps-in-deep-learning-14101e2e
 
 https://augmentedstartups.mykajabi.com/YOLOR-Object-Detection-Course
 
+https://colab.research.google.com/drive/1snboX3JG9USKmbCAGf3XtCZkSjayMgM2
+
+https://colab.research.google.com/drive/12QusaaRj_lUwCGDvQNfICpa7kA7_a2dE
+
+https://colab.research.google.com/drive/1_GdoqCJWXsChrOiY8sZMr_zbr_fH-0Fg
+
+https://www.upgrad.com/blog/deploying-ml-models-using-streamlit/
+
+https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/
+
+https://www.analyticsvidhya.com/blog/2021/02/machine-learning-model-deployment-using-django/
+
+https://www.youtube.com/watch?v=x0NdZkaciws&ab_channel=JCharisTech
+
+https://colab.research.google.com/github/mrm8488/shared_colab_notebooks/blob/master/Create_streamlit_app.ipynb
+
+https://medium.com/@jcharistech/how-to-run-streamlit-apps-from-colab-29b969a1bdfc
+
+https://analyticsindiamag.com/guide-to-real-time-object-detection-model-deployment-using-streamlit/
+
+https://youtu.be/VVXkbXPFzmM
+
+https://www.google.com/url?q=https://zoom.us/j/93895089190?pwd%3DVFB0UEczdjM1c08yUHczcFF6U0UrQT09&sa=D&source=calendar&ust=1642247524949857&usg=AOvVaw3XzpedJhH8thwEVwU__3z6
+
+https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030
+
+https://towardsdatascience.com/a-quick-tutorial-on-how-to-deploy-your-streamlit-app-to-heroku-874e1250dadd
+
+https://www.analyticsvidhya.com/blog/2021/06/deploy-your-ml-dl-streamlit-application-on-heroku/
+
+https://github.com/chittoorking/Yolov4-demo
+
+https://github.com/hunglc007/tensorflow-yolov4-tflite
