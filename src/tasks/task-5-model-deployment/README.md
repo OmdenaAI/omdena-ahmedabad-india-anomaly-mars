@@ -87,7 +87,7 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
 ## Project Manager:
 
--[Toshita](https://www.linkedin.com/in/toshita-sharma-79894a1a4/)
+-[Toshita Sharma](https://www.linkedin.com/in/toshita-sharma-79894a1a4/)
 
 ## References:
 [https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)
