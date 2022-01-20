@@ -22,6 +22,23 @@
         |__ yolov4-custom.weights <-This is yolov4 custom wieghts file used for objection detection.
         |
         └── .jpg/jpeg          <- All the image files that are used in the deployment of our App.
+        
+        
+# Object Detection with Yolo v4 and Streamlit
+
+Paper YOLO v4: https://arxiv.org/abs/2004.10934
+
+You should download 'yolov4.weights' file 245 MB: [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) (Google-drive mirror [yolov4-custom.weights](https://drive.google.com/file/d/1-4vUl0oPlp-IsTodHIubFxW2y7m3KSot/view))
+
+## Object Detection
+![object_detection](https://github.com/venkatanarayana143/object-detection-yolo/blob/main/object_detection.PNG)
+
+## Start Streamlit
+Type below on your terminal to run Streamlit and check the result of object detection with Streamlit.
+~~~
+streamlit run app.py
+~~~
+
 
 ## For the deployment of our model we have used [Streamlit](https://docs.streamlit.io/).
 Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
@@ -87,9 +104,4 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 
 ## Project Manager:
 
--[Toshita Sharma](https://www.linkedin.com/in/toshita-sharma-79894a1a4/)
-
-## References:
-[https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030)
-
-[https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app](https://docs.streamlit.io/streamlit-cloud/get-started/deploy-an-app)
+-[Toshita](https://www.linkedin.com/in/toshita-sharma-79894a1a4/)
