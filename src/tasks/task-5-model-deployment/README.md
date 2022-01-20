@@ -28,7 +28,7 @@
 
 Paper YOLO v4: https://arxiv.org/abs/2004.10934
 
-You should download 'yolov4.weights' file 245 MB: [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) (Google-drive mirror [yolov4-custom.weights](https://drive.google.com/file/d/1-4vUl0oPlp-IsTodHIubFxW2y7m3KSot/view))
+You should download 'yolov4.weights' file 245 MB: [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) (Google-drive mirror [yolov4-custom.weights](https://drive.google.com/file/d/1WILkhO44xp7jFydZjm9e3cP6p5u5Ufuq/view?usp=sharing))
 
 ## Object Detection
 ![object_detection](https://github.com/venkatanarayana143/object-detection-yolo/blob/main/object_detection.PNG)
